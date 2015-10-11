@@ -1,0 +1,23 @@
+"mafiawars" {
+
+  "base"        "base"
+  "title"       "Mafia Wars"
+  "maps"        "^mw_"
+  "menusystem"  "1"
+  "workshopid"  ""
+
+  "settings"{
+
+    1 {
+
+      "name"  "mw_test"
+      "text"  "Test"
+      "help"  "Testing"
+      "type"  "numeric"
+      "default" "1"
+
+    }
+
+  }
+
+}
